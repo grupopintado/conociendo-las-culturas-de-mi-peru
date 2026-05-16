@@ -9,7 +9,7 @@ const culturesData = {
             "Pututos de concha"
         ],
         context: "Su principal centro fue Chavín de Huántar. Influyó en muchas culturas posteriores del Perú.",
-        img: "img/chavin.png"
+        img: "chavin.png"
     },
     paracas: {
         title: "Paracas",
@@ -21,7 +21,7 @@ const culturesData = {
             "Instrumentos médicos antiguos"
         ],
         context: "Se desarrolló en la costa sur del Perú y es reconocida por sus técnicas funerarias.",
-        img: "img/paracas.png"
+        img: "paracas.png"
     },
     nazca: {
         title: "Nazca",
@@ -33,7 +33,7 @@ const culturesData = {
             "Figuras de las Líneas de Nazca"
         ],
         context: "Habitaron la costa sur y desarrollaron importantes sistemas hidráulicos.",
-        img: "img/nazca.png"
+        img: "nazca.png"
     },
     moche: {
         title: "Moche",
@@ -45,7 +45,7 @@ const culturesData = {
             "Joyas ceremoniales"
         ],
         context: "Construyeron templos como la Huaca del Sol y la Huaca de la Luna.",
-        img: "img/moche.png"
+        img: "moche.png"
     },
     tiahuanaco: {
         title: "Tiahuanaco",
@@ -57,7 +57,7 @@ const culturesData = {
             "Esculturas de piedra"
         ],
         context: "Fue uno de los principales centros ceremoniales de los Andes.",
-        img: "img/tiahuanaco.png"
+        img: "tiahuanaco.png"
     },
     wari: {
         title: "Wari",
@@ -69,7 +69,7 @@ const culturesData = {
             "Arquitectura urbana"
         ],
         context: "Expandieron su influencia por gran parte del territorio peruano.",
-        img: "img/wari.png"
+        img: "wari.png"
     },
     chimu: {
         title: "Chimú",
@@ -81,7 +81,7 @@ const culturesData = {
             "Maquetas de Chan Chan"
         ],
         context: "Su capital fue Chan Chan, una de las ciudades de barro más grandes del mundo.",
-        img: "img/chimu.png"
+        img: "chimu.png"
     },
     inca: {
         title: "Inca",
@@ -93,7 +93,7 @@ const culturesData = {
             "Objetos de oro"
         ],
         context: "Su capital fue Cusco y desarrollaron una extensa red de caminos.",
-        img: "img/inca.png"
+        img: "inca.png"
     }
 };
 
